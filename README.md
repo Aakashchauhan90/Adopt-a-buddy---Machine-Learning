@@ -9,7 +9,7 @@ Learning model that determines type and breed of the animal based on its physica
 The data consists the following columns
 
 # Column Description
-# Sl No.   Column Name      Description
+Sl No.   Column Name      Description
 
 1         pet_id        Unique Pet Id
 
